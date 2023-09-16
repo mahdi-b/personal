@@ -1,4 +1,4 @@
-## Short Statement of Endeavors
+##  Summary Statement of Endeavors
 
 
 
@@ -16,17 +16,17 @@ As a committed academic, I have been instrumental in fostering partnerships with
 ## Supporting Documents
 
 
-* Updated [CV](https://www.dropbox.com/scl/fi/8a18s3owee9ftw10hstg1/mahdi_belcaid_resume.pdf?rlkey=6rdim7ch05q5o4o6vuetvuk5k&dl=1)
+* [Current Curriculum Vitae](https://www.dropbox.com/scl/fi/8a18s3owee9ftw10hstg1/mahdi_belcaid_resume.pdf?rlkey=6rdim7ch05q5o4o6vuetvuk5k&dl=1)
 
 
-* Sample Publication From Personal Research
+* Selected Publications from Independent Research
   * [Belcaid, M., 2019. Symbiotic organs shaped by distinct modes of genome evolution in cephalopods. Proceedings of the National Academy of Sciences.](https://www.dropbox.com/scl/fi/iys12zrn4gvi1wewuc68s/pnas.1817322116.pdf?rlkey=s5b9b6mhg0wgqvurrcddyfc37&dl=1)
   * [Arisdakessian et al. 2021. CoCoNet: an efficient deep learning tool for viral metagenome binning. Bioinformatics.](https://www.dropbox.com/scl/fi/92mmd5mpijbj75z50mu4n/btab213.pdf?rlkey=2tkfulky1is757r7wc4gm915o&dl=1)
   * [Belcaid et al., 2022. Leveraging deep contrastive learning for semantic interaction. PeerJ Computer Science.](https://www.dropbox.com/s/30dkgz87tdqdzmu/peerj-cs-925.pdf?dl=1)  
   * [Belcaid et al., 2022. Taming DNA clustering in massive datasets with SLYMFAST. ACM SIGAPP Applied Computing Review.](https://www.dropbox.com/scl/fi/szgbk23c2bc1q6epmw3pf/ACR_FULL.pdf?rlkey=sokp547m1ukukovb1im7wpop1&dl=1)
   * [Belcaid et al., 2023 Reflecting on the Scalable Adaptive Graphics Environment Team's 20-Year Translational Research Endeavor in Digital Collaboration Tools. Computing in Science & Engineering.](https://www.dropbox.com/scl/fi/f5i5caocwfp8c52aj2bwk/Reflecting_on_the_Scalable_Adaptive_Graphics_Environment_Teams_20-Year_Translational_Research_Endeavor_in_Digital_Collaboration_Tools.pdf?rlkey=hdaj0k3ninevvkc2eqe8wxd2m&dl=1)
 
-* Sample Publication Collaborative research
+* Selected Publications from Collaborative Research
   * [Amend et al., 2022. A ridge-to-reef ecosystem microbial census reveals environmental reservoirs for animal and plant microbiomes. Proceedings of the National Academy of Sciences.](https://www.dropbox.com/scl/fi/3d03ybcbpwdzifhysqask/pnas.2204146119.pdf?rlkey=oc7fdkjxejo5l60qkapebqjro&dl=1)
   * [Arora et al., 2020. Transcriptome profile of nicotinic receptor-linked sensitization of beta amyloid neurotoxicity. Scientific reports.](https://www.dropbox.com/scl/fi/75nyatozp9dnnrp67v8ay/s41598-020-62726-0.pdf?rlkey=rnj74jdbfreh0d7utdm042p2z&dl=1)
 
