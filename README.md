@@ -1,4 +1,4 @@
-##  Summary Statement of Endeavors
+# Summary Statement of Endeavors
 
 
 
